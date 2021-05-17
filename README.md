@@ -56,6 +56,8 @@ This library is lightweight and it does not include any 3D engine or third party
 
 Here are the main features of the library:
 
+KMSOON
+
 * face detection,
 * face tracking,
 * face rotation detection,
